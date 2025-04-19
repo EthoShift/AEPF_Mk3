@@ -1,0 +1,97 @@
+Gradient Boosting:
+  HR Candidate Selection:
+    dataset: "AI_Models/HR_Candidate/data/hr_data.csv"
+    preprocessing_script: "AI_Models.HR_Candidate.scripts.preprocess_data"
+    model_script: "AI_Models.HR_Candidate.scripts.generate_report"
+  Loan Default Prediction:
+    dataset: "AI_Models/Loan_default/data/raw/loan_data.csv"
+    preprocessing_script: "AI_Models.Loan_default.scripts.preprocess_data"
+    model_script: "AI_Models.Loan_default.scripts.generate_report"
+
+Bayesian Networks:
+  Medical Treatment Decision:
+    dataset: "AI_Models/Medical_Treatment/data/medical_data.csv"
+    preprocessing_script: "AI_Models.Medical_Treatment.scripts.preprocess_data"
+    model_script: "AI_Models.Medical_Treatment.scripts.generate_report"
+  Autonomous Vehicle Ethics:
+    dataset: "AI_Models/Autonomous_Vehicles/data/vehicle_data.csv"
+    preprocessing_script: "AI_Models.Autonomous_Vehicles.scripts.preprocess_data"
+    model_script: "AI_Models.Autonomous_Vehicles.scripts.generate_report"
+
+Decision Trees:
+  Medical Treatment Decision:
+    dataset: "AI_Models/Medical_Treatment/data/medical_data.csv"
+    preprocessing_script: "AI_Models.Medical_Treatment.scripts.preprocess_data"
+    model_script: "AI_Models.Medical_Treatment.scripts.generate_report"
+  Carbon Footprint Estimator:
+    dataset: "AI_Models/Carbon_Footprint/data/emissions_data.csv"
+    preprocessing_script: "AI_Models.Carbon_Footprint.scripts.preprocess_data"
+    model_script: "AI_Models.Carbon_Footprint.scripts.generate_report"
+
+Neural Networks:
+  Loan Default Prediction:
+    dataset: "AI_Models/Loan_default/data/raw/loan_data.csv"
+    preprocessing_script: "AI_Models.Loan_default.scripts.preprocess_data"
+    model_script: "AI_Models.Loan_default.scripts.generate_report"
+
+Reinforcement Learning:
+  Educational AI:
+    dataset: "AI_Models/Educational_AI/data/education_data.csv"
+    preprocessing_script: "AI_Models.Educational_AI.scripts.preprocess_data"
+    model_script: "AI_Models.Educational_AI.scripts.generate_report"
+  Autonomous Vehicle Ethics:
+    dataset: "AI_Models/Autonomous_Vehicles/data/vehicle_data.csv"
+    preprocessing_script: "AI_Models.Autonomous_Vehicles.scripts.preprocess_data"
+    model_script: "AI_Models.Autonomous_Vehicles.scripts.generate_report"
+
+K-Means:
+  Educational AI:
+    dataset: "AI_Models/Educational_AI/data/education_data.csv"
+    preprocessing_script: "AI_Models.Educational_AI.scripts.preprocess_data"
+    model_script: "AI_Models.Educational_AI.scripts.generate_report"
+
+Linear Regression:
+  Carbon Footprint Estimator:
+    dataset: "AI_Models/Carbon_Footprint/data/emissions_data.csv"
+    preprocessing_script: "AI_Models.Carbon_Footprint.scripts.preprocess_data"
+    model_script: "AI_Models.Carbon_Footprint.scripts.generate_report"
+
+NLP:
+  Social Media Crisis Monitoring:
+    dataset: "AI_Models/Social_Media/data/social_data.csv"
+    preprocessing_script: "AI_Models.Social_Media.scripts.preprocess_data"
+    model_script: "AI_Models.Social_Media.scripts.generate_report"
+
+Time Series Analysis:
+  Social Media Crisis Monitoring:
+    dataset: "AI_Models/Social_Media/data/social_data.csv"
+    preprocessing_script: "AI_Models.Social_Media.scripts.preprocess_data"
+    model_script: "AI_Models.Social_Media.scripts.generate_report"
+  Smart Grid Power Distribution:
+    dataset: "AI_Models/Smart_Grid/data/power_data.csv"
+    preprocessing_script: "AI_Models.Smart_Grid.scripts.preprocess_data"
+    model_script: "AI_Models.Smart_Grid.scripts.generate_report"
+
+Linear Programming:
+  Supply Chain Optimization:
+    dataset: "AI_Models/Supply_Chain/data/supply_chain_data.csv"
+    preprocessing_script: "AI_Models.Supply_Chain.scripts.preprocess_data"
+    model_script: "AI_Models.Supply_Chain.scripts.generate_report"
+
+MLP (Multi-layer Perceptron):
+  Public Policy Impact Assessment:
+    dataset: "AI_Models/Public_Policy/data/policy_data.csv"
+    preprocessing_script: "AI_Models.Public_Policy.scripts.preprocess_data"
+    model_script: "AI_Models.Public_Policy.scripts.generate_report"
+
+Regression Analysis:
+  Public Policy Impact Assessment:
+    dataset: "AI_Models/Public_Policy/data/policy_data.csv"
+    preprocessing_script: "AI_Models.Public_Policy.scripts.preprocess_data"
+    model_script: "AI_Models.Public_Policy.scripts.generate_report"
+
+Linear Optimization:
+  Smart Grid Power Distribution:
+    dataset: "AI_Models/Smart_Grid/data/power_data.csv"
+    preprocessing_script: "AI_Models.Smart_Grid.scripts.preprocess_data"
+    model_script: "AI_Models.Smart_Grid.scripts.generate_report"
