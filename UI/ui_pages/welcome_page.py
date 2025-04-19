@@ -5,33 +5,47 @@ def show():
     st.title("Welcome to Etho Shift")
     
     st.markdown("""
-        Welcome to Etho Shift - Your Partner in Ethical AI Development and Innovation.
-        
-        Our platform leverages the Adaptive Ethical Prism Framework (AEPF), a cutting-edge 
-        methodology for comprehensive AI analysis and ethical assessment. The AEPF provides:
-        
-        ### Dynamic Analysis Across Key Dimensions:
+        Welcome to **Etho Shift** — your partner in ethical AI development and innovation.
+
+        At the heart of our work is the **Adaptive Ethical Prism Framework (AEPF)**, a dynamic methodology 
+        for comprehensive AI analysis and contextual ethical assessment. We’re currently seeking **collaborators** 
+        to help us evolve this open-source framework and expand its impact.
+
+        ### Why Collaborate with Us?
+
+        The AEPF is designed to explore AI systems across multiple dimensions:
         - Technical Performance
         - Ethical Considerations
         - Fairness Metrics
         - Societal Impact
-        
+
+        But we know frameworks are only as strong as the people behind them. That’s why we’re inviting:
+        - AI developers and engineers
+        - Ethicists and social scientists
+        - Designers, educators, and systems thinkers
+        - Anyone passionate about responsible innovation
+
         ### The AEPF Advantage
-        The Adaptive Ethical Prism Framework adapts to your specific AI implementation,
-        providing contextual insights and recommendations. It considers:
+
+        Our framework adapts to your AI implementation, offering contextual recommendations based on:
         - Industry-specific ethical considerations
-        - Regulatory compliance requirements
-        - Cultural and societal implications
-        - Evolving ethical standards
-        
-        At Etho Shift, we combine the power of AEPF with expert guidance to help organizations 
-        develop AI systems that are both powerful and ethically sound. Our framework ensures 
-        your AI solutions meet the highest standards of performance and ethical responsibility.
-        
+        - Regulatory and compliance requirements
+        - Cultural and societal factors
+        - Emerging ethical norms
+
+        ### Ways to Contribute
+        - Collaborate on GitHub: [Join the project](https://github.com/EthoShift/AEPF_Mk3)
+        - Share ideas or feedback
+        - Help us test, refine, and evolve the framework
+        - Build reflective modules or analysis pipelines
+        - Join conversations around future features and scope
+
         ### Quick Start Guide
-        1. Go to the Analyser page
+        1. Go to the **Analyser** page
         2. Select your model type
         3. Choose a scenario
-        4. Configure analysis options
-        5. Review the results
+        4. Configure your analysis
+        5. Review results and insights
+
+        **Together, we can build AI systems that are not just powerful — but principled.**
     """)
